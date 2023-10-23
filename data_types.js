@@ -28,3 +28,7 @@ console.table([typeof(age),typeof(names),typeof(isLoggedIn),typeof(id),typeof(ac
 4. date
 */
 
+let obj = {
+    "name" : "Prafull Kumar Pandey",
+    "age" : 20,
+}
