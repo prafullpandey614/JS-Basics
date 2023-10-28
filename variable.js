@@ -3,6 +3,11 @@ let accountName = "Prafull"
 let accountAge = 20
 accountAddress = "Google Inc."
 
+const accountIss = 323345
+let accountNames = "Pandey"
+let accountAges = 10
+accountAddress = "APPle Inc."
+
 // let accountPartner = undefined ;
 // let accountDestroyer = null ;
 // let accountDeactivated = false ;
