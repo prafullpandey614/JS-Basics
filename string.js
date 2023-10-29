@@ -1,7 +1,13 @@
-let names = "we are going to learn strings and some string functions in JavaScript"
+let names = "we are are going to learn strings are some string functions in JavaScript"
 
-// substr method
-// console.log(names.substring(0,5))
+console.log(names.includes("going ")) // return true if this substring is present 
 
-// slice method
-console.log(names.slice(-1,-6))
+console.log(names.lastIndexOf("strings"))
+
+console.log(names.replace("are","pre"));
+
+console.log(names.replaceAll("are","wpre"));
+
+console.log(names.substring(0,2))  // start index : end index
+
+console.log(names.substr(1,8))  // start index : len of required substring
